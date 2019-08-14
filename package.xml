@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>intelligrape_productlable</name>
+    <version>1.0.0.1</version>
+    <stability>stable</stability>
+    <license>OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>intelligrape_productlable</summary>
+    <description>intelligrape_productlable</description>
+    <notes>New</notes>
+    <authors><author><name>Amatya</name><user>intelligrape</user><email>shahid@intelligrape.com</email></author></authors>
+    <date>2012-12-22</date>
+    <time>01:08:14</time>
+    <contents><target name="magelocal"><dir name="Intelligrape"><dir name="Productlable"><dir name="Block"><file name="Productlable.php" hash="7a9d07bd0c4c774e27396ebce6346a5b"/></dir><dir name="Helper"><file name="Data.php" hash="7e56b27ba3b5e18e4b00543880cfd877"/></dir><dir name="etc"><file name="config.xml" hash="5791e8877f841eb7e307d81332b30343"/><file name="system.xml" hash="280d5f982b279bfaee5e7a5544a1c0ca"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Intelligrape_Productlable.xml" hash="95abae7f4db0bc8ad4e35a03ec0b30ec"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="productlable.xml" hash="f45dcf755458d1e3633a5a097b9cb451"/></dir><dir name="template"><dir name="productlable"><file name="list.phtml" hash="7d78fc4d7ca4b471ae3f62567ea191a5"/><file name="media.phtml" hash="c89204bf1edf605b108b5ecba53fce83"/><file name="productlable.phtml" hash="2733016c58ecf6eed2fb78f4f41b7673"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
