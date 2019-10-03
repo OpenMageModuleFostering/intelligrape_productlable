@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/intelligrape_productlable",
+    "name": "OpenMageModuleFostering\/intelligrape_productlable",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "intelligrape_productlable",
     "authors": [
-    {
-        "name": "Amatya",
-        "email": "shahid@intelligrape.com"
-    }
-],
+        {
+            "name": "Amatya",
+            "email": "shahid@intelligrape.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
